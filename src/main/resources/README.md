@@ -23,13 +23,13 @@ A RESTful backend application built with **Spring Boot** and **PostgreSQL** that
 - Deployment: Railway / Render (suggested platforms)
 
 
-## 📦 Postman Collection
+## Postman Collection
 
 🧪 Test your APIs via this collection:
 
 📎 **Public Gist:** [Postman Collection](https://gist.github.com/your-username/your-gist-id)
 
-- Uses `{{baseUrl}} = https://your-api-domain.com`
+-
 - Organized folders for:
     - Expenses (Add, Update, Delete)
     - Balances & Settlements
@@ -42,5 +42,5 @@ A RESTful backend application built with **Spring Boot** and **PostgreSQL** that
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/JanviSawalkar/SplitApp.git
-cd splitapp
+git clone https://github.com/JanviSawalkar/SplitApp1.git
+
